@@ -1,0 +1,6 @@
+have to make a full fledge shopping website using react , login page  , dashboard , shopping 
+she will ask us what hooks you have used in where?  have to use multiple hooks 
+
+
+3rd, have to make an login page using react and node js, in which user authenticates the client, if the client is student then it should go on dashboard page and to be prined , "welcome student" if it's the faculty then faculty should be printed instead of that.
+    
